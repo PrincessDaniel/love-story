@@ -1,0 +1,128 @@
+body {
+    text-align: center;
+    font-family: 'Love Light', cursive;
+    background: linear-gradient(#fff0f3, #ff8fa3, #a4133c, #640d14, #691e06);
+    color: black;
+}
+
+#isaac {
+    margin: 30px 100px;
+    border: 1px solid #ff4d6d;
+    border-radius: 20px;
+    padding: 50px 50px 20px 50px;
+    font-size: 25px;
+    color: #c71f37;
+    text-shadow: black;
+    text-decoration-line: underline;
+    text-decoration-color: #c71f37;
+    text-decoration-style: double;
+    text-decoration-thickness: 1.3px;
+    background: linear-gradient(#ff4d6d, #ff758f, #ff99ac, #fff0f3, white);
+}
+
+img {
+    width: 150px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+h2 {
+    color: silver;
+    text-shadow: 0 0 1px black;
+}
+
+.orgasms {
+    font-size: 30px;
+}
+
+.vagina {
+    width: 250px;
+    height: 180px;
+    margin: 30px auto;
+    border: 3px solid black;
+    border-radius: 30px;
+    background-size: 250px 180px;
+    background-image: url("images/love-symbol-2.jpg")
+}
+
+#g-spot {
+        font-size: 20px;
+        margin-bottom: -30px;
+}
+
+.balls {
+    margin-bottom: -25px;
+}
+
+.nipples {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-shadow: 0 0 1px black;
+    margin: 0px 30px;
+    background-color: black;
+    color: white;
+}
+
+#cum {
+    width: 150px;
+    height: 180px;
+    background-size: 150px 180px;
+    background-image: url("images/boyfriend-of-the-year.jpg")
+}
+
+#cum:hover {
+    width: 150px;
+    height: 180px;
+    background-size: 150px 180px;
+    background-image: url("images/20221013_180000.gif")
+}
+
+#clit:hover {
+    width: 185px;
+    height: 180px;
+    background-image: url("images/IMG-20220918-WA0006.jpg")
+}
+
+#wap:hover {
+    background-image: url("images/patrick-love.gif")
+}
+
+#wet:hover {
+    background-image: url("https://media.giphy.com/media/LWTSA9EveFnqw/giphy.gif")
+}
+
+#ass:hover {
+    background-image: url("https://media.giphy.com/media/8HOhteffS5dAjhU2hC/giphy.gif")
+}
+
+#pussy:hover {
+    background-image: url("https://media.giphy.com/media/OWHzwZKRyvZ9tj1F80/giphy.gif")
+}
+
+#breasts:hover {
+    background-image: url("https://media.giphy.com/media/9Utb30aJcHsRzhzXV4/giphy.gif")
+}
+
+#squirt:hover {
+    background-image: url("https://media.giphy.com/media/26vUyQaDMBcG6ZFni/giphy.gif")
+}
+
+#areola:hover {
+    background-image: url("https://media.giphy.com/media/3o6gaVitKPj11r7fYA/giphy.gif")
+}
+
+#fuck {
+    margin-bottom: 50px;
+}
+
+/* 
+Add the footer paragraph according to the design. 
+Configure the anchor tag to open the link in a new tab.
+Forgotten how to do it? Google it! 
+
+Link: 
+https://scrimba.com/learn/htmlandcss
+
+Text:
+Want to create your own Birthday GIFt site? Take this HTML & CSS course.
+*/
