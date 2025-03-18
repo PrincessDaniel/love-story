@@ -6,7 +6,13 @@ body {
 }
 
 .sixty-nine {
-    text-shadow: 0.5px 0.5px #FFFFFF;
+    text-shadow: 0.1px 0.1px black;
+    color: #FFFFFF
+}
+
+#doggy {
+    text-shadow: 0.05px 0.05px black;
+    color: black
 }
 
 #isaac {
@@ -52,10 +58,6 @@ h2 {
 #g-spot {
         font-size: 20px;
         margin-bottom: -30px;
-}
-
-.balls {
-    margin-bottom: -25px;
 }
 
 .nipples {
