@@ -5,6 +5,10 @@ body {
     color: black;
 }
 
+.sixty-nine {
+    text-shadow: 0.5px 0.5px #FFFFFF;
+}
+
 #isaac {
     margin: 30px 100px;
     border: 1px solid #ff4d6d;
